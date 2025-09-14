@@ -39,25 +39,6 @@ Recomendation_Bot/
 │── games_similar.pkl.gz # Compressed Similarity Matrix
 │── README.md            # Project Documentation
 
-🔥 How to Run
-
-Clone the Repository:
-
-git clone https://github.com/yashjain71288/Recomendation_Bot.git
-
-Navigate to the Project Folder:
-
-cd Recomendation_Bot
-
-Install Dependencies:
-
-pip install -r requirements.txt
-
-Run the Streamlit App:
-
-streamlit run app.py
-
-Select 'Movies' or 'Games' and Get Recommendations!
 
 ⚡ Future Enhancements
 
